@@ -16,7 +16,9 @@ p{
     text-align: center;
     margin-top: 10px;
 }
-button{
+div{
     text-align: center;
-    
+}
+button{
+    font-size: larger;
 }
